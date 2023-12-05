@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhat Bhasme</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat8055&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat8055" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhat8055" alt="prabhat8055" /></a> </p>
