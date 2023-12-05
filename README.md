@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
 <h1 align="center">Hi 👋, I'm Prabhat Bhasme</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
