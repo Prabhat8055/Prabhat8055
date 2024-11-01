@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
-  <strong>Software Developer || Tech Explorer</strong>
+  <strong>Frontend Developer || Conneting to backend</strong>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </p>
 
