@@ -135,6 +135,10 @@ I am a passionate and creative software developer with a love for problem-solvin
   <a href="prabhatbhasme@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+   <a href="https://portfolio-alpha-five-77.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6347?style=for-the-badge&logo=vercel&logoColor=white" alt="Email" />
+  </a>
+ 
 </p>
 
 <!-- Footer animation -->
